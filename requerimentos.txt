@@ -1,0 +1,14 @@
+# Clasificación de Pingüinos – Humano vs Machine Learning
+
+Este proyecto compara un clasificador basado en reglas humanas con un modelo de Machine Learning (Decision Tree) utilizando el dataset de pingüinos.
+
+## Tecnologías
+- Python==3.9.6
+- Pandas==2.2.3
+- NumPy==2.02
+- Scikit-learn==1.6.1
+- Matplotlib==3.9.4
+- Seaborn==0.13.2
+
+## Instalación
+pip install -r requerimentos.txt

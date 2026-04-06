@@ -1,0 +1,24 @@
+## Requerimientos Técnicos
+
+ - Para la ejecución de esta práctica se utilizaron las siguientes herramientas y tecnologías:
+
+### Lenguaje de programación
+- Python: 3.9.6 (default, Jan  9 2026, 11:03:41) 
+
+###  Librerías utilizadas
+- NumPy: 2.0.2
+- Pandas: 2.2.3
+- Matplotlib: 3.9.4
+- Seaborn: 0.13.2
+
+###  Entorno de desarrollo
+- Visual Studio Code
+
+### Configuración adicional
+- Uso de semillas aleatorias (`np.random.seed(42)`) para reproducibilidad
+- Visualización con estilos personalizados de matplotlib
+
+###  Archivos generados
+- `experimentos_gd.csv`: contiene los resultados de todos los experimentos realizados
+
+
